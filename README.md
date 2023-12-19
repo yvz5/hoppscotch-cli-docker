@@ -1,2 +1,2 @@
 # hoppscotch-cli-docker
-docker image of the Hoppscotch cli
+Unofficial hoppscotch CLI
